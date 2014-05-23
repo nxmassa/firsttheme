@@ -42,10 +42,8 @@
 	padding-bottom: 60px;
 }
 
-.homepage-block:last-child img{
-	float: left;
-	margin: 10px;
-	padding-bottom: 60px;
+#block-block-14 img {
+padding-bottom: 0;
 }
 
 .homepage-block a {
